@@ -6,6 +6,9 @@
 > - My first website (Currently active, will be dead soon tho/published project since almost 5 months now!): https://ilovelampadaire.com _(Hosted on vercel and can't keep up due to paid subscription for organizations.)_
 > - My new website (Current active, just got it at my bday/this is not on github but i will soon transform my old github website into assets and put my main website code onto the new website.): https://lampsprojects.net _(Hosted on hostinger.)_
 
+My youtube is [ilovelampadaire](https://ilovelampadaire.com/youtube) if you were wondering btw and my discord is: [lampyt](https://discord.com/users/1056952213056004118).
+All of my socials are: [Linktree](https://linktree.com/ilovelampadaireyt).
+
 # New account
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
 
