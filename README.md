@@ -10,7 +10,7 @@ My youtube is [ilovelampadaire](https://ilovelampadaire.com/youtube) if you were
 All of my socials are: [Linktree](https://linktree.com/ilovelampadaireyt).
 
 You can also join my discord server below.
-http://invidget.switchblade.xyz/uZCPaa3Gxd
+[!](http://invidget.switchblade.xyz/uZCPaa3Gxd)
 
 I am experienced with:
 [![experienced](https://skillicons.dev/icons?i=github,gitlab,vercel,vscode,git,godot,raspberrypi)](https://skillicons.dev)
