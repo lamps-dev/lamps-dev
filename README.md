@@ -9,6 +9,18 @@
 My youtube is [ilovelampadaire](https://ilovelampadaire.com/youtube) if you were wondering btw and my discord is: [lampyt](https://discord.com/users/1056952213056004118).
 All of my socials are: [Linktree](https://linktree.com/ilovelampadaireyt).
 
+You can also join my discord server below.
+http://invidget.switchblade.xyz/uZCPaa3Gxd
+
+I am experienced with:
+[![experienced](https://skillicons.dev/icons?i=github,gitlab,vercel,vscode,git,godot,raspberrypi)](https://skillicons.dev)
+
+I use:
+[![use](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
+
+Programming languages i know:
+[![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python)](https://skillicons.dev)
+
 # New account
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
 
