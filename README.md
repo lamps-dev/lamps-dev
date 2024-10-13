@@ -1,6 +1,9 @@
 # Lamps-dev (Originally: [ilovelampadaire](https://github.com/ilovelampadaire) (Before Organization Accident.))
 ## Hey there! I'm lamp! A python html css and js coder! I'm also a youtuber and i got 200 subs on youtube, i make small python programs most of the time but most of them are dead **by now**.
 ![Lamp's PFP](pfp.png)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1056952213056004118)](https://discord.com/users/1056952213056004118)
+
 > - SysInfo (dead/not really published project.).
 > - [PyChatroom](https://github.com/ilovelampadaire/PY-Chatroom) (Dead but will be probably revived soon/pubished project but broken.).
 > - My first website (Currently active, will be dead soon tho/published project since almost 5 months now!): https://ilovelampadaire.com _(Hosted on vercel and can't keep up due to paid subscription for organizations.)_
