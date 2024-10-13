@@ -12,6 +12,11 @@
 My youtube is [ilovelampadaire](https://ilovelampadaire.com/youtube) if you were wondering btw and my discord is: [lampyt](https://discord.com/users/1056952213056004118).
 All of my socials are: [Linktree](https://linktree.com/ilovelampadaireyt).
 
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+
 You can also join my discord server below.
 
 
