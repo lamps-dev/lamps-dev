@@ -14,12 +14,12 @@ All of my socials are: [Linktree](https://linktree.com/ilovelampadaireyt).
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Join us on Globed!](https://ytcards.demolab.com/?id=MfOlxGbI2Jc&title=Join+us+on+Globed%21&lang=en&timestamp=1732811891&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Join us on Globed!")](https://www.youtube.com/watch?v=MfOlxGbI2Jc)
 [![Lofi music for studying and sleeping 24/7 📚😴 | Lofi nocopyright](https://ytcards.demolab.com/?id=2uZri1RBOjQ&title=Lofi+music+for+studying+and+sleeping+24%2F7+%F0%9F%93%9A%F0%9F%98%B4+%7C+Lofi+nocopyright&lang=en&timestamp=1732723153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lofi music for studying and sleeping 24/7 📚😴 | Lofi nocopyright")](https://www.youtube.com/watch?v=2uZri1RBOjQ)
 [![But here's the..... #memes #cat](https://ytcards.demolab.com/?id=-8mIeDvqCv0&title=But+here%27s+the.....+%23memes+%23cat&lang=en&timestamp=1731766512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "But here's the..... #memes #cat")](https://www.youtube.com/watch?v=-8mIeDvqCv0)
 [![Random memes from discord part 10 #memes](https://ytcards.demolab.com/?id=KExD6dAv_Uw&title=Random+memes+from+discord+part+10+%23memes&lang=en&timestamp=1731757473&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Random memes from discord part 10 #memes")](https://www.youtube.com/watch?v=KExD6dAv_Uw)
 [![Friend SMP Stream on minecraft part 2.](https://ytcards.demolab.com/?id=9c-7xcwzmsc&title=Friend+SMP+Stream+on+minecraft+part+2.&lang=en&timestamp=1731306400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Friend SMP Stream on minecraft part 2.")](https://www.youtube.com/watch?v=9c-7xcwzmsc)
 [![Friend SMP Stream on minecraft.](https://ytcards.demolab.com/?id=BIir7uNcBm4&title=Friend+SMP+Stream+on+minecraft.&lang=en&timestamp=1731287567&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Friend SMP Stream on minecraft.")](https://www.youtube.com/watch?v=BIir7uNcBm4)
-[![Geometry dash level request!](https://ytcards.demolab.com/?id=pLfDg29hom0&title=Geometry+dash+level+request%21&lang=en&timestamp=1731046856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Geometry dash level request!")](https://www.youtube.com/watch?v=pLfDg29hom0)
 <!-- END YOUTUBE-CARDS -->
 
 
