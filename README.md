@@ -3,6 +3,7 @@
 ![Lamp's PFP](pfp.png)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1056952213056004118)](https://discord.com/users/1056952213056004118)
+If you do not see the nitro or booster badges and banner its because lanyard (what im using for discord presence github readme) doesn't support it yet.
 
 > - SysInfo (dead/not really published project.).
 > - [PyChatroom](https://github.com/ilovelampadaire/PY-Chatroom) (Dead but will be probably revived soon/pubished project but broken.).
