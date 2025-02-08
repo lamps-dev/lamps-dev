@@ -1,19 +1,37 @@
-# Lamps-dev (Originally: [ilovelampadaire](https://github.com/ilovelampadaire) (Before Organization Accident.))
-## Hey there! I'm lamp! A python html css and js coder! I'm also a youtuber and i got 200 subs on youtube, i make small python programs most of the time but most of them are dead **by now**.
-![Lamp's PFP](pfp.png)
+# Hey there!
+
+### I'm lamp!
+
+### A french programmer,
+
+### I'm also a youtuber,
+
+### I make small python programs most of the time but most of them are dead by now.
+
+[![Lamp's PFP](pfp.png)](https://linktr.ee/ilovelampadaireyt)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1056952213056004118)](https://discord.com/users/1056952213056004118)
 
 If you do not see the nitro or booster badges and banner its because lanyard (what im using for discord presence github readme) doesn't support it yet.
 
-> - SysInfo (dead/not really published project.).
-> - [PyChatroom](https://github.com/ilovelampadaire/PY-Chatroom) (Dead but will be probably revived soon/pubished project but broken.).
-> - My first website (Currently active, will be dead soon tho/published project since almost 5 months now!): https://ilovelampadaire.com _(Hosted on vercel and can't keep up due to paid subscription for organizations.)_
-> - My new website (Current active, just got it at my bday/this is not on github but i will soon transform my old github website into assets and put my main website code onto the new website.): https://lampsprojects.net _(Hosted on hostinger.)_
+My Projects:
 
-My youtube is [ilovelampadaire](https://ilovelampadaire.com/youtube) if you were wondering btw and my discord is: [lampyt](https://discord.com/users/1056952213056004118).
-All of my socials are: [Linktree](https://linktree.com/ilovelampadaireyt).
+> - SysInfo (dead),
+> - [PyChatroom](https://github.com/ilovelampadaire/PY-Chatroom) (dead and broken),
+> - [First Website](https://ilovelampadaire.com) (dead and broken),
+> - [Second Website](https://lampsprojects.net) (dead),
+> - [Third Website](https://lampsss.online) (dead and broken),
+> - [Fifth Website](https://lamps-dev.dev) (kinda alive),
+> - [Last Website](https://lamps.lol) (half broken).
 
+___
+Socials:
+
+[YouTube](https://youtube.com/@ilovelampadaire)
+[X](https://x.com/lampytofficial)
+[Bluesky](https://bsky.app/profile/ilovelampadaire.bsky.social)
+[Soundcloud](https://soundcloud.com/ilove-lampadaire)
+[Discord](<https://discord.com/users/1056952213056004118>)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Geometry dash level request!](https://ytcards.demolab.com/?id=9eDiwoJeVW8&title=Geometry+dash+level+request%21&lang=en&timestamp=1737953372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Geometry dash level request!")](https://www.youtube.com/watch?v=9eDiwoJeVW8)
@@ -28,7 +46,7 @@ All of my socials are: [Linktree](https://linktree.com/ilovelampadaireyt).
 You can also join my discord server below.
 
 
-![test](https://invidget.switchblade.xyz/uZCPaa3Gxd)
+![Here](https://invidget.switchblade.xyz/uZCPaa3Gxd)
 
 
 
@@ -39,12 +57,12 @@ I use:
 [![use](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
 
 Programming languages i know:
-[![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python)](https://skillicons.dev)
+[![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs)](https://skillicons.dev)
 
-# New account
+# My Account
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-# My friend
+# My Friend Ponali
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponali)](https://github.com/anuraghazra/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=krz9x0njioc623yyhe4xmxcya&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=krz9x0njioc623yyhe4xmxcya&redirect=true)
