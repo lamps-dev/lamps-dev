@@ -55,7 +55,7 @@ ___
 
 ### I use:
 
-[![use](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
+[![use](https://skillicons.dev/icons?i=ubuntu,windows,arch,mint)](https://skillicons.dev)
 
 ### I know how to code in:
 
