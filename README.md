@@ -48,15 +48,17 @@ You can also join my discord server below.
 
 ![Here](https://invidget.switchblade.xyz/uZCPaa3Gxd)
 
+___
+### I am experienced with:
 
-
-I am experienced with:
 [![experienced](https://skillicons.dev/icons?i=github,gitlab,vercel,vscode,git,godot,raspberrypi)](https://skillicons.dev)
 
-I use:
+### I use:
+
 [![use](https://skillicons.dev/icons?i=ubuntu,windows)](https://skillicons.dev)
 
-Programming languages i know:
+### I know how to code in:
+
 [![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs)](https://skillicons.dev)
 
 # My Account
