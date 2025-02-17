@@ -51,7 +51,7 @@ You can also join my discord server below.
 ___
 ### I am experienced with:
 
-[![experienced](https://skillicons.dev/icons?i=github,gitlab,vercel,vscode,git,godot,raspberrypi)](https://skillicons.dev)
+[![experienced](https://skillicons.dev/icons?i=github,gitlab,vercel,vscode,git,godot,raspberrypi,netlify)](https://skillicons.dev)
 
 ### I use:
 
