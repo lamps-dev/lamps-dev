@@ -59,7 +59,7 @@ ___
 
 ### I know how to code in:
 
-[![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs)](https://skillicons.dev)
+[![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs,java)](https://skillicons.dev)
 
 # My Account
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
