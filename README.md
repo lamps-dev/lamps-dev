@@ -46,7 +46,7 @@ Socials:
 You can also join my discord server below.
 
 
-![Here](https://invidget.switchblade.xyz/uZCPaa3Gxd)
+[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=y5aE6Wnuns)](https://discord.gg/y5aE6Wnuns)
 
 ___
 ### I am experienced with:
@@ -64,7 +64,7 @@ ___
 # My Account
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-# My Friend Ponali
+# My Friend (Ponali's Account)
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponali)](https://github.com/anuraghazra/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=krz9x0njioc623yyhe4xmxcya&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=krz9x0njioc623yyhe4xmxcya&redirect=true)
