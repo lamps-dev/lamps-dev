@@ -51,7 +51,7 @@ You can also join my discord server below.
 ___
 ### I am experienced with:
 
-[![experienced](https://skillicons.dev/icons?i=github,gitlab,vercel,vscode,git,godot,raspberrypi,netlify)](https://skillicons.dev)
+[![experienced](https://skillicons.dev/icons?i=github,gitlab,vercel,vscode,git,godot,raspberrypi,netlify,obsidian,qt,webstorm)](https://skillicons.dev)
 
 ### I use:
 
@@ -59,7 +59,7 @@ ___
 
 ### I know how to code in:
 
-[![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs,java)](https://skillicons.dev)
+[![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs,java,lua)](https://skillicons.dev)
 
 # My Account
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
