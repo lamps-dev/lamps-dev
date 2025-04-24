@@ -66,5 +66,3 @@ ___
 
 # My Friend (Ponali's Account)
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponali)](https://github.com/anuraghazra/github-readme-stats)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=krz9x0njioc623yyhe4xmxcya&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=krz9x0njioc623yyhe4xmxcya&redirect=true)
