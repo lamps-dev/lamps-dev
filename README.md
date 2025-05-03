@@ -1,20 +1,20 @@
-# Hey there!
+# // Hey there!
 
-### I'm lamp!
+### // I'm lamp!
 
-### A french programmer,
+### // A french programmer,
 
-### I'm also a youtuber,
+### //  I'm also a youtuber,
 
-### I make small python programs most of the time but most of them are dead by now.
+### // I make small python programs most of the time but most of them are dead by now.
 
 [![Lamp's PFP](pfp.png)](https://linktr.ee/ilovelampadaireyt)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1056952213056004118)](https://discord.com/users/1056952213056004118)
 
-If you do not see the nitro or booster badges and banner its because lanyard (what im using for discord presence github readme) doesn't support it yet.
+// If you do not see the nitro or booster badges and banner its because lanyard (what im using for discord presence github readme) doesn't support it yet.
 
-My Projects:
+// My Projects:
 
 > - SysInfo (dead),
 > - [PyChatroom](https://github.com/ilovelampadaire/PY-Chatroom) (dead and broken),
@@ -24,8 +24,9 @@ My Projects:
 > - [Fifth Website](https://lamps-dev.dev) (kinda alive),
 > - [Last Website](https://lamps.lol) (half broken).
 
-___
-Socials:
+// ___
+
+// Socials:
 
 [YouTube](https://youtube.com/@ilovelampadaire)
 [X](https://x.com/lampytofficial)
@@ -43,26 +44,26 @@ Socials:
 <!-- END YOUTUBE-CARDS -->
 
 
-You can also join my discord server below.
+// You can also join my discord server below.
 
 
 [![Discord Server Invite](https://invite.casperiv.dev?inviteCode=y5aE6Wnuns)](https://discord.gg/y5aE6Wnuns)
 
-___
-### I am experienced with:
+// ___
+### // I am experienced with:
 
-[![experienced](https://skillicons.dev/icons?i=github,gitlab,vercel,vscode,git,godot,raspberrypi,netlify,obsidian,qt,webstorm)](https://skillicons.dev)
+[![experienced](https://skillicons.dev/icons?i=github,gitlab,vscode,git,godot,raspberrypi,netlify,obsidian,qt,webstorm)](https://skillicons.dev)
 
-### I use:
+### // I use:
 
 [![use](https://skillicons.dev/icons?i=ubuntu,windows,arch,mint)](https://skillicons.dev)
 
-### I know how to code in:
+### // I know how to code in:
 
 [![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs,java,lua)](https://skillicons.dev)
 
-# My Account
+# // My Account
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
 
-# My Friend (Ponali's Account)
+# // My Friend (Ponali's Account)
 [![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponali)](https://github.com/anuraghazra/github-readme-stats)
