@@ -1,38 +1,43 @@
-# // Hey there!
+# // Hey there 👋
 
-### // I'm lamp!
+### // I'm a French coder named Lamp,
 
-### // A french programmer,
+### //  I'm also a YouTuber,
 
-### //  I'm also a youtuber,
-
-### // I make small python programs most of the time but most of them are dead by now.
-
-[![Lamp's PFP](pfp.png)](https://linktr.ee/ilovelampadaireyt)
+### // I make some small projects but I took a break of coding since a while now.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1056952213056004118)](https://discord.com/users/1056952213056004118)
 
-// If you do not see the nitro or booster badges and banner its because lanyard (what im using for discord presence github readme) doesn't support it yet.
+// If you do not see the booster badge or any other badges and banner it's because Lanyard (What i'm currently using for Discord presence in README) doesn't support it.
 
-// My Projects:
+____
+
+# // My Projects:
 
 > - SysInfo (dead),
 > - [PyChatroom](https://github.com/ilovelampadaire/PY-Chatroom) (dead and broken),
-> - [First Website](https://ilovelampadaire.com) (dead and broken),
-> - [Second Website](https://lampsprojects.net) (dead),
-> - [Third Website](https://lampsss.online) (dead and broken),
+> - [First Website](https://ilovelampadaire.com) (dead and broken (Edit 28/10/2025: Domain expired)),
+> - [Second Website](https://lampsprojects.net) (dead (Edit 28/10/2025: Domain expired)),
+> - [Third Website](https://lampsss.online) (dead and broken (Edit 28/10/2025: Domain expired)),
 > - [Fifth Website](https://lamps-dev.dev) (kinda alive),
-> - [Last Website](https://lamps.lol) (half broken).
+> - [Last Website](https://lamps.lol) (half broken (Edit 28/10/2025: Domain expired)).
+> - Honestly, I had to quit coding for a while.
 
-// ___
+___
 
-// Socials:
+# // Socials:
 
-[YouTube](https://youtube.com/@ilovelampadaire)
-[X](https://x.com/lampytofficial)
-[Bluesky](https://bsky.app/profile/ilovelampadaire.bsky.social)
-[Soundcloud](https://soundcloud.com/ilove-lampadaire)
-[Discord](<https://discord.com/users/1056952213056004118>)
+> - [YouTube](https://youtube.com/@ilovelampadaire)
+> - [X (Twitter)](https://x.com/lampytofficial)
+> - [Bluesky](https://bsky.app/profile/ilovelampadaire.bsky.social)
+> - [Discord](<https://discord.com/users/1056952213056004118>)
+
+### // You can also join my discord server below:
+
+
+[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=VUFnX5SRSg)](https://discord.gg/VUFnX5SRSg)
+
+# // YouTube Videos/Streams/Shorts:
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![..another test video, for whatever reason](https://ytcards.demolab.com/?id=6B9srsYQklk&title=..another+test+video%2C+for+whatever+reason&lang=en&timestamp=1756741811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "..another test video, for whatever reason")](https://www.youtube.com/shorts/6B9srsYQklk)
@@ -43,27 +48,20 @@
 [![GD / Geometry dash Level Request | Haven't done in a while! :D](https://ytcards.demolab.com/?id=U03kQZTql-Q&title=GD+%2F+Geometry+dash+Level+Request+%7C+Haven%27t+done+in+a+while%21+%3AD&lang=en&timestamp=1755247510&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GD / Geometry dash Level Request | Haven't done in a while! :D")](https://www.youtube.com/watch?v=U03kQZTql-Q)
 <!-- END YOUTUBE-CARDS -->
 
+___
 
-// You can also join my discord server below.
+## // What I know and use
+### // I use the following platforms:
 
+[![i_use_the_following_platforms](https://skillicons.dev/icons?i=github,gitlab,vscode,git,godot,netlify,obsidian,qt)](https://skillicons.dev)
 
-[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=y5aE6Wnuns)](https://discord.gg/y5aE6Wnuns)
+### // I use the following OSes:
 
-// ___
-### // I am experienced with:
+[![i_use_the_following_oses](https://skillicons.dev/icons?i=windows,arch,mint,raspberrypi)](https://skillicons.dev)
 
-[![experienced](https://skillicons.dev/icons?i=github,gitlab,vscode,git,godot,raspberrypi,netlify,obsidian,qt,webstorm)](https://skillicons.dev)
+### // I know how to code in the following programming languages (That doesnt mean I know everything about them):
 
-### // I use:
-
-[![use](https://skillicons.dev/icons?i=ubuntu,windows,arch,mint)](https://skillicons.dev)
-
-### // I know how to code in:
-
-[![programminglanguages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs,java,lua)](https://skillicons.dev)
-
-# // My Account
-[![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
-
-# // My Friend (Ponali's Account)
-[![Ilovelampadaire's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponali)](https://github.com/anuraghazra/github-readme-stats)
+[![i_know_how_to_code_in_the_following_programming_languages](https://skillicons.dev/icons?i=html,css,js,svelte,python,cs,java,lua)](https://skillicons.dev)
+____
+### // My Account
+[![Lamps-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamps-dev)](https://github.com/anuraghazra/github-readme-stats)
