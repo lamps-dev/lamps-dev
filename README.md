@@ -40,12 +40,12 @@ ___
 # // YouTube Videos/Streams/Shorts:
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![@scottfrenzel](https://ytcards.demolab.com/?id=bV_cJ5bjrmA&title=%40scottfrenzel&lang=en&timestamp=1763498893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "@scottfrenzel")](https://www.youtube.com/shorts/bV_cJ5bjrmA)
 [![Compilation of the dumbest discord messages I found](https://ytcards.demolab.com/?id=fS94rdLT7y8&title=Compilation+of+the+dumbest+discord+messages+I+found&lang=en&timestamp=1763217181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Compilation of the dumbest discord messages I found")](https://www.youtube.com/watch?v=fS94rdLT7y8)
 [![ngl imo its a bit better #denkikaminari](https://ytcards.demolab.com/?id=AVSO97ulRPI&title=ngl+imo+its+a+bit+better+%23denkikaminari&lang=en&timestamp=1762553742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ngl imo its a bit better #denkikaminari")](https://www.youtube.com/shorts/AVSO97ulRPI)
 [![ill try later #denkikaminari](https://ytcards.demolab.com/?id=qbUG8wWWpxg&title=ill+try+later+%23denkikaminari&lang=en&timestamp=1762553597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ill try later #denkikaminari")](https://www.youtube.com/shorts/qbUG8wWWpxg)
 [![#ghaffarbhai #denkikaminari](https://ytcards.demolab.com/?id=7Q_Bn0IRHis&title=%23ghaffarbhai+%23denkikaminari&lang=en&timestamp=1762543784&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#ghaffarbhai #denkikaminari")](https://www.youtube.com/shorts/7Q_Bn0IRHis)
 [![#denkikaminari #ghaffarbhai](https://ytcards.demolab.com/?id=10b8Raftv-4&title=%23denkikaminari+%23ghaffarbhai&lang=en&timestamp=1762421466&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#denkikaminari #ghaffarbhai")](https://www.youtube.com/shorts/10b8Raftv-4)
-[![wh-what #ghaffarbhai](https://ytcards.demolab.com/?id=636MI-QgTHY&title=wh-what+%23ghaffarbhai&lang=en&timestamp=1762376755&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "wh-what #ghaffarbhai")](https://www.youtube.com/shorts/636MI-QgTHY)
 <!-- END YOUTUBE-CARDS -->
 
 ___
