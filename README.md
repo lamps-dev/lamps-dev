@@ -40,12 +40,12 @@ ___
 # // YouTube Videos/Streams/Shorts:
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Playing MCDiamondFire cuz why not](https://ytcards.demolab.com/?id=-WO7QJMjrrM&title=Playing+MCDiamondFire+cuz+why+not&lang=en&timestamp=1763803922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing MCDiamondFire cuz why not")](https://www.youtube.com/watch?v=-WO7QJMjrrM)
+[![Playing Diamondfire because why not](https://ytcards.demolab.com/?id=s_fZMS47TB8&title=Playing+Diamondfire+because+why+not&lang=en&timestamp=1763803656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing Diamondfire because why not")](https://www.youtube.com/watch?v=s_fZMS47TB8)
 [![Playing Diamondfire because why not](https://ytcards.demolab.com/?id=gMScVaE9ZmM&title=Playing+Diamondfire+because+why+not&lang=en&timestamp=1763760846&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing Diamondfire because why not")](https://www.youtube.com/watch?v=gMScVaE9ZmM)
 [![#ghaffarbhai](https://ytcards.demolab.com/?id=b5FkFsWu_nk&title=%23ghaffarbhai&lang=en&timestamp=1763588111&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#ghaffarbhai")](https://www.youtube.com/shorts/b5FkFsWu_nk)
 [![@scottfrenzel](https://ytcards.demolab.com/?id=bV_cJ5bjrmA&title=%40scottfrenzel&lang=en&timestamp=1763498893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "@scottfrenzel")](https://www.youtube.com/shorts/bV_cJ5bjrmA)
 [![Compilation of the dumbest discord messages I found](https://ytcards.demolab.com/?id=fS94rdLT7y8&title=Compilation+of+the+dumbest+discord+messages+I+found&lang=en&timestamp=1763217181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Compilation of the dumbest discord messages I found")](https://www.youtube.com/watch?v=fS94rdLT7y8)
-[![ngl imo its a bit better #denkikaminari](https://ytcards.demolab.com/?id=AVSO97ulRPI&title=ngl+imo+its+a+bit+better+%23denkikaminari&lang=en&timestamp=1762553742&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ngl imo its a bit better #denkikaminari")](https://www.youtube.com/shorts/AVSO97ulRPI)
-[![ill try later #denkikaminari](https://ytcards.demolab.com/?id=qbUG8wWWpxg&title=ill+try+later+%23denkikaminari&lang=en&timestamp=1762553597&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ill try later #denkikaminari")](https://www.youtube.com/shorts/qbUG8wWWpxg)
 <!-- END YOUTUBE-CARDS -->
 
 ___
