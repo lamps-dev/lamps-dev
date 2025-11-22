@@ -40,12 +40,12 @@ ___
 # // YouTube Videos/Streams/Shorts:
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Coding in DF (mcdiamondfire)](https://ytcards.demolab.com/?id=eOAmPLfT_xo&title=Coding+in+DF+%28mcdiamondfire%29&lang=en&timestamp=1763822827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding in DF (mcdiamondfire)")](https://www.youtube.com/watch?v=eOAmPLfT_xo)
+[![Coding in DF (mcdiamondfire)](https://ytcards.demolab.com/?id=6FKTkL-17KU&title=Coding+in+DF+%28mcdiamondfire%29&lang=en&timestamp=1763822110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding in DF (mcdiamondfire)")](https://www.youtube.com/watch?v=6FKTkL-17KU)
 [![Playing MCDiamondFire cuz why not](https://ytcards.demolab.com/?id=-WO7QJMjrrM&title=Playing+MCDiamondFire+cuz+why+not&lang=en&timestamp=1763803922&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing MCDiamondFire cuz why not")](https://www.youtube.com/watch?v=-WO7QJMjrrM)
 [![Playing Diamondfire because why not](https://ytcards.demolab.com/?id=gMScVaE9ZmM&title=Playing+Diamondfire+because+why+not&lang=en&timestamp=1763806987&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing Diamondfire because why not")](https://www.youtube.com/watch?v=gMScVaE9ZmM)
 [![Playing Diamondfire because why not](https://ytcards.demolab.com/?id=s_fZMS47TB8&title=Playing+Diamondfire+because+why+not&lang=en&timestamp=1763803656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing Diamondfire because why not")](https://www.youtube.com/watch?v=s_fZMS47TB8)
 [![#ghaffarbhai](https://ytcards.demolab.com/?id=b5FkFsWu_nk&title=%23ghaffarbhai&lang=en&timestamp=1763588111&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#ghaffarbhai")](https://www.youtube.com/shorts/b5FkFsWu_nk)
-[![@scottfrenzel](https://ytcards.demolab.com/?id=bV_cJ5bjrmA&title=%40scottfrenzel&lang=en&timestamp=1763498893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "@scottfrenzel")](https://www.youtube.com/shorts/bV_cJ5bjrmA)
-[![Compilation of the dumbest discord messages I found](https://ytcards.demolab.com/?id=fS94rdLT7y8&title=Compilation+of+the+dumbest+discord+messages+I+found&lang=en&timestamp=1763217181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Compilation of the dumbest discord messages I found")](https://www.youtube.com/watch?v=fS94rdLT7y8)
 <!-- END YOUTUBE-CARDS -->
 
 ___
