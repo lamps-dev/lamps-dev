@@ -40,7 +40,7 @@ ___
 # // YouTube Videos/Streams/Shorts:
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![mace roulette thingies (join up)](https://ytcards.demolab.com/?id=ooUvJ-ClD_c&title=mace+roulette+thingies+%28join+up%29&lang=en&timestamp=1766222362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "mace roulette thingies (join up)")](https://www.youtube.com/watch?v=ooUvJ-ClD_c)
+[![minecraft survival](https://ytcards.demolab.com/?id=ooUvJ-ClD_c&title=minecraft+survival&lang=en&timestamp=1766222362&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "minecraft survival")](https://www.youtube.com/watch?v=ooUvJ-ClD_c)
 [![#shareyourcatpics](https://ytcards.demolab.com/?id=EmsLt7m-6fA&title=%23shareyourcatpics&lang=en&timestamp=1764972390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#shareyourcatpics")](https://www.youtube.com/shorts/EmsLt7m-6fA)
 [![diamondfire thingies (join up)](https://ytcards.demolab.com/?id=Exea-ahYuy8&title=diamondfire+thingies+%28join+up%29&lang=en&timestamp=1763872254&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "diamondfire thingies (join up)")](https://www.youtube.com/watch?v=Exea-ahYuy8)
 [![Playing MCDiamondFire cuz why not](https://ytcards.demolab.com/?id=-WO7QJMjrrM&title=Playing+MCDiamondFire+cuz+why+not&lang=en&timestamp=1763855555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Playing MCDiamondFire cuz why not")](https://www.youtube.com/watch?v=-WO7QJMjrrM)
