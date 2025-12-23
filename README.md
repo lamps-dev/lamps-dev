@@ -40,12 +40,7 @@ ___
 # // YouTube Videos/Streams/Shorts:
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![very orduiary evelvator game (also maybe playing some kinitopet and gd and mace roulette)](https://ytcards.demolab.com/?id=NyoKnc1Sk_A&title=very+orduiary+evelvator+game+%28also+maybe+playing+some+kinitopet+and+gd+and+mace+roulette%29&lang=en&timestamp=1766435237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "very orduiary evelvator game (also maybe playing some kinitopet and gd and mace roulette)")](https://www.youtube.com/watch?v=NyoKnc1Sk_A)
-[![mace roulette (join up)](https://ytcards.demolab.com/?id=1Mks9x0TUmU&title=mace+roulette+%28join+up%29&lang=en&timestamp=1766356367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "mace roulette (join up)")](https://www.youtube.com/watch?v=1Mks9x0TUmU)
-[![mace roulette (join up)](https://ytcards.demolab.com/?id=1F4KhQeeCTA&title=mace+roulette+%28join+up%29&lang=en&timestamp=1766328427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "mace roulette (join up)")](https://www.youtube.com/watch?v=1F4KhQeeCTA)
-[![mace roulette on df (join up)](https://ytcards.demolab.com/?id=Hmu8-4Z9erg&title=mace+roulette+on+df+%28join+up%29&lang=en&timestamp=1766302749&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "mace roulette on df (join up)")](https://www.youtube.com/watch?v=Hmu8-4Z9erg)
-[![mace roulette gameing on mcdiamondfire (join up)](https://ytcards.demolab.com/?id=7wHMXm3xYL8&title=mace+roulette+gameing+on+mcdiamondfire+%28join+up%29&lang=en&timestamp=1766299491&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "mace roulette gameing on mcdiamondfire (join up)")](https://www.youtube.com/watch?v=7wHMXm3xYL8)
-[![minecraft survival](https://ytcards.demolab.com/?id=ooUvJ-ClD_c&title=minecraft+survival&lang=en&timestamp=1766279923&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "minecraft survival")](https://www.youtube.com/watch?v=ooUvJ-ClD_c)
+
 <!-- END YOUTUBE-CARDS -->
 
 ___
