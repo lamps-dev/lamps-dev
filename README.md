@@ -15,6 +15,7 @@ ____
 > - Salma Mod (I'm now coding minecraft mods)
 > - U.R.A.I Extended (Another MC mod)
 > - [My current website](https://lamps-dev.dev) (All of the other domains died since i couldn't renew them and https://lamps.lol got taken)
+> - Discord bots (like Terry and Lmp Beta, the bots are not public/open-source yet)
 
 ___
 
@@ -23,7 +24,7 @@ ___
 > - [YouTube](https://youtube.com/@ilovelampadaire)
 > - [X (Twitter)](https://x.com/lampytofficial)
 > - [Bluesky](https://bsky.app/profile/ilovelampadaire.bsky.social)
-> - [Mastodon](https://mastodon.social/)
+> - [Mastodon](https://mastodon.social/@lampyt)
 > - [Discord](<https://discord.com/users/1056952213056004118>)
 
 ### // You can also join my discord server below if you want to:
