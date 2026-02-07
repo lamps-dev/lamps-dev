@@ -12,6 +12,7 @@ ____
 
 # // My Current Projects:
 
+> - Lamp Utils (yet another minecraft mod)
 > - Salma Mod (I'm now coding minecraft mods)
 > - U.R.A.I Extended (Another MC mod)
 > - [My current website](https://lamps-dev.dev) (All of the other domains died since i couldn't renew them and https://lamps.lol got taken)
