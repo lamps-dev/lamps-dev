@@ -51,9 +51,9 @@ ___
 
 ### // Platforms/Apps I use:
 
-[![i_use_the_following_platforms](https://skillicons.dev/icons?i=github,gitlab,vscode,git,godot,netlify,obsidian,qt,cloudflare,vercel,git)](https://skillicons.dev)
+[![i_use_the_following_platforms](https://skillicons.dev/icons?i=github,gitlab,vscode,git,godot,netlify,obsidian,qt,cloudflare,vercel)](https://skillicons.dev)
 
-### // I use the following OSes:
+### // Operating Systems I use/Code in:
 
 [![i_use_the_following_oses](https://skillicons.dev/icons?i=windows,arch,mint)](https://skillicons.dev)
 
