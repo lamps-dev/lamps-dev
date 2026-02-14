@@ -51,7 +51,7 @@ ___
 
 ### // Platforms/Apps I use:
 
-[![i_use_the_following_platforms](https://skillicons.dev/icons?i=github,gitlab,vscode,git,godot,netlify,obsidian,qt,cloudflare,vercel,docker,firebase,idea,googlecloud,visualstudio,figma,codepen,gmail)](https://skillicons.dev)
+[![i_use_the_following_platforms](https://skillicons.dev/icons?i=github,gitlab,vscode,git,godot,netlify,obsidian,qt,cloudflare,vercel,docker,firebase,idea,googlecloud,visualstudio,figma,codepen,gmail,pycharm,redis,twitter,workers)](https://skillicons.dev)
 
 ### // Operating Systems I use/Code in:
 
@@ -59,7 +59,7 @@ ___
 
 ### // Programming Languages/Other Stuff I know (I don't know all of them by heart however):
 
-[![i_know_how_to_code_in_the_following_programming_languages](https://skillicons.dev/icons?i=html,css,js,python,cs,java,lua,react,tailwind,vite,ts,dotnet,githubactions,gradle)](https://skillicons.dev)
+[![i_know_how_to_code_in_the_following_programming_languages](https://skillicons.dev/icons?i=html,css,js,python,cs,java,lua,react,tailwind,vite,ts,dotnet,githubactions,gradle,md)](https://skillicons.dev)
 ____
 ### // Stats
 [![Lamps-dev's GitHub stats](https://githubreadme-eight.vercel.app/api?username=lamps-dev&show=prs_merged&hide=contribs&show_icons=true&commits_year=2025&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
