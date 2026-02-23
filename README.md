@@ -37,7 +37,12 @@ Direct link if embed doesn't work: https://discord.gg/VUFnX5SRSg
 # // YouTube Videos/Streams/Shorts (Auto Updates):
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![diamondfire thingies and maybe gd in afternoon (join up)](https://ytcards.demolab.com/?id=PG3NB1Pk_qQ&title=diamondfire+thingies+and+maybe+gd+in+afternoon+%28join+up%29&lang=en&timestamp=1771723621&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "diamondfire thingies and maybe gd in afternoon (join up)")](https://www.youtube.com/watch?v=PG3NB1Pk_qQ)
+[![diamondfire thingies (join up)](https://ytcards.demolab.com/?id=ascz5Rp0Cd4&title=diamondfire+thingies+%28join+up%29&lang=en&timestamp=1767320186&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "diamondfire thingies (join up)")](https://www.youtube.com/watch?v=ascz5Rp0Cd4)
+[![omfg new years](https://ytcards.demolab.com/?id=C8ajyPnyDik&title=omfg+new+years&lang=en&timestamp=1767222674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "omfg new years")](https://www.youtube.com/watch?v=C8ajyPnyDik)
+[![very orduiary evelvator game (also maybe playing some kinitopet and gd and mace roulette)](https://ytcards.demolab.com/?id=4wEtWofn1Xg&title=very+orduiary+evelvator+game+%28also+maybe+playing+some+kinitopet+and+gd+and+mace+roulette%29&lang=en&timestamp=1766532457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "very orduiary evelvator game (also maybe playing some kinitopet and gd and mace roulette)")](https://www.youtube.com/watch?v=4wEtWofn1Xg)
+[![very orduiary evelvator game (also maybe playing some kinitopet and gd and mace roulette)](https://ytcards.demolab.com/?id=NyoKnc1Sk_A&title=very+orduiary+evelvator+game+%28also+maybe+playing+some+kinitopet+and+gd+and+mace+roulette%29&lang=en&timestamp=1766485478&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "very orduiary evelvator game (also maybe playing some kinitopet and gd and mace roulette)")](https://www.youtube.com/watch?v=NyoKnc1Sk_A)
+[![mace roulette (join up)](https://ytcards.demolab.com/?id=1Mks9x0TUmU&title=mace+roulette+%28join+up%29&lang=en&timestamp=1766356367&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "mace roulette (join up)")](https://www.youtube.com/watch?v=1Mks9x0TUmU)
 <!-- END YOUTUBE-CARDS -->
 
 ___
