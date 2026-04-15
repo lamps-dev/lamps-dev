@@ -16,7 +16,7 @@ ____
 > - Salma Mod (I'm now coding minecraft mods)
 > - U.R.A.I Extended (Another MC mod)
 > - [My current website](https://lamps-dev.dev) (All of the other domains died since I didn't want to renew them and https://lamps.lol got taken)
-> - Discord bots (like Terry and Lmp Beta, the bots are not public/open-source yet)
+> - Discord bots (like Terry and Lmp Beta, ~~the bots are not public/open-source yet~~ only Terry isn't now! https://github.com/lamp-studios/lmpbot-beta)
 
 ___
 
