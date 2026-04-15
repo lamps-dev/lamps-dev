@@ -30,7 +30,7 @@ ___
 
 ### // You can also join my discord server below if you want to:
 
-[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=VUFnX5SRSg)](https://discord.gg/VUFnX5SRSg)
+[![Discord Server Invite](https://invite.casperiv.dev?inviteCode=sZxmbu4ZrG)](https://discord.gg/sZxmbu4ZrG)
 
 Direct link if embed doesn't work: https://discord.gg/VUFnX5SRSg
 
