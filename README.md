@@ -37,7 +37,12 @@ Direct link if embed doesn't work: https://discord.gg/VUFnX5SRSg
 # // YouTube Videos/Streams/Shorts (Auto Updates):
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![diamondfire thingies and maybe donutsmp later (join up)](https://ytcards.demolab.com/?id=FJSvOak3dQ0&title=diamondfire+thingies+and+maybe+donutsmp+later+%28join+up%29&lang=en&timestamp=1777019596&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "diamondfire thingies and maybe donutsmp later (join up)")](https://www.youtube.com/watch?v=FJSvOak3dQ0)
+[![diamondfire thingies and maybe donutsmp later (join up)](https://ytcards.demolab.com/?id=DjQz_No7sEc&title=diamondfire+thingies+and+maybe+donutsmp+later+%28join+up%29&lang=en&timestamp=1776973812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "diamondfire thingies and maybe donutsmp later (join up)")](https://www.youtube.com/watch?v=DjQz_No7sEc)
+[![Don't have any video ideas so here, take my cat ig.](https://ytcards.demolab.com/?id=g047NWEmgUE&title=Don%27t+have+any+video+ideas+so+here%2C+take+my+cat+ig.&lang=en&timestamp=1776365415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Don't have any video ideas so here, take my cat ig.")](https://www.youtube.com/shorts/g047NWEmgUE)
+[![DonutSMP now!!! (kind of new) join up trust trust | check pins for discord](https://ytcards.demolab.com/?id=ncfjqGNWPJ8&title=DonutSMP+now%21%21%21+%28kind+of+new%29+join+up+trust+trust+%7C+check+pins+for+discord&lang=en&timestamp=1775981029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DonutSMP now!!! (kind of new) join up trust trust | check pins for discord")](https://www.youtube.com/watch?v=ncfjqGNWPJ8)
+[![Bad Apple on Notepad and the Terminal | Showcase](https://ytcards.demolab.com/?id=ZB63Fm40Utc&title=Bad+Apple+on+Notepad+and+the+Terminal+%7C+Showcase&lang=en&timestamp=1774980022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bad Apple on Notepad and the Terminal | Showcase")](https://www.youtube.com/watch?v=ZB63Fm40Utc)
+[![diamondfire thingies and maybe gd in afternoon (join up)](https://ytcards.demolab.com/?id=PG3NB1Pk_qQ&title=diamondfire+thingies+and+maybe+gd+in+afternoon+%28join+up%29&lang=en&timestamp=1771723621&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "diamondfire thingies and maybe gd in afternoon (join up)")](https://www.youtube.com/watch?v=PG3NB1Pk_qQ)
 <!-- END YOUTUBE-CARDS -->
 
 ___
