@@ -1,4 +1,4 @@
-# // Hey there 👋
+# // Hey there 👋 :3
 
 ### // I code stuff as a French person.
 
@@ -14,9 +14,11 @@ ____
 
 > - Lamp Utils (Yet another minecraft mod)
 > - Salma Mod (I'm now coding minecraft mods)
-> - U.R.A.I Extended (Another MC mod)
-> - [My current website](https://lamps-dev.dev) (All of the other domains died since I didn't want to renew them and https://lamps.lol got taken)
-> - Discord bots (like Terry and Lmp Beta, ~~the bots are not public/open-source yet~~ only Terry isn't now! https://github.com/lamp-studios/lmpbot-beta)
+> - U.R.A.I Extended (Another MC mod, my first non-MCreator one actually)
+> - [My old portfolio](https://old.lamps-dev.dev)
+> - [My new portfolio](https://lamps-dev.dev).
+> - All of the other domains died since I didn't want to renew them and https://lamps.lol got taken.
+> - Discord bots (like Terry and Lmp Beta, ~~the bots are not public/open-source yet~~ only Terry isn't, now! https://github.com/lamp-studios/lmpbot-beta)
 
 ___
 
@@ -32,7 +34,7 @@ ___
 
 [![Discord Server Invite](https://invite.casperiv.dev?inviteCode=sZxmbu4ZrG)](https://discord.gg/sZxmbu4ZrG)
 
-Direct link if embed doesn't work: https://discord.gg/VUFnX5SRSg
+Direct link if embed doesn't work: https://discord.gg/sZxmbu4ZrG
 
 # // YouTube Videos/Streams/Shorts (Auto Updates):
 
@@ -51,15 +53,15 @@ ___
 
 ### // Platforms/Apps I use:
 
-[![i_use_the_following_platforms](https://skillicons.dev/icons?i=github,gitlab,vscode,git,godot,netlify,obsidian,qt,cloudflare,vercel,docker,firebase,idea,googlecloud,visualstudio,figma,codepen,gmail,pycharm,redis,twitter,workers)](https://skillicons.dev)
+[![i_use_the_following_platforms](https://skillicons.dev/icons?i=github,vscode,git,godot,netlify,obsidian,qt,cloudflare,vercel,docker,firebase,idea,googlecloud,gmail,pycharm,twitter,workers)](https://skillicons.dev)
 
-### // Operating Systems I use/Code in:
+### // Operating Systems and Server OSes I use/Code in:
 
-[![i_use_the_following_oses](https://skillicons.dev/icons?i=windows,arch,mint)](https://skillicons.dev)
+[![i_use_the_following_oses](https://skillicons.dev/icons?i=windows,arch,raspberrypi)](https://skillicons.dev)
 
 ### // Programming Languages/Other Stuff I know (I don't know all of them by heart however):
 
-[![i_know_how_to_code_in_the_following_programming_languages](https://skillicons.dev/icons?i=html,css,js,python,cs,java,lua,react,tailwind,vite,ts,dotnet,githubactions,gradle,md)](https://skillicons.dev)
+[![i_know_how_to_code_in_the_following_programming_languages](https://skillicons.dev/icons?i=html,css,js,python,cs,java,lua,react,tailwind,vite,ts,dotnet,astro,gradle,md)](https://skillicons.dev)
 ____
 ### // Stats
-[![Lamps-dev's GitHub stats](https://githubreadme-eight.vercel.app/api?username=lamps-dev&show=prs_merged&hide=contribs&show_icons=true&commits_year=2025&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Lamps-dev's GitHub stats](https://githubreadme-eight.vercel.app/api?username=lamps-dev&show=prs_merged&hide=contribs&show_icons=true&commits_year=2026&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
