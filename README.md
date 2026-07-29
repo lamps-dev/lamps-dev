@@ -39,12 +39,12 @@ Direct link if embed doesn't work: https://discord.gg/sZxmbu4ZrG
 # // YouTube Videos/Streams/Shorts (Auto Updates):
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to reset volume slider in GD](https://ytcards.demolab.com/?id=H8fiMNQkE5U&title=How+to+reset+volume+slider+in+GD&lang=en&timestamp=1785347059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to reset volume slider in GD")](https://www.youtube.com/watch?v=H8fiMNQkE5U)
 [![🐈‍⬛LoFi for 💤 sleeping and for 📚 studying (24/7) | v2.0.0](https://ytcards.demolab.com/?id=LIGZ_k5Ae-k&title=%F0%9F%90%88%E2%80%8D%E2%AC%9BLoFi+for+%F0%9F%92%A4+sleeping+and+for+%F0%9F%93%9A+studying+%2824%2F7%29+%7C+v2.0.0&lang=en&timestamp=1780197921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🐈‍⬛LoFi for 💤 sleeping and for 📚 studying (24/7) | v2.0.0")](https://www.youtube.com/watch?v=LIGZ_k5Ae-k)
 [![Bad Apple on Notepad and the Terminal | Showcase](https://ytcards.demolab.com/?id=ZB63Fm40Utc&title=Bad+Apple+on+Notepad+and+the+Terminal+%7C+Showcase&lang=en&timestamp=1774980022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bad Apple on Notepad and the Terminal | Showcase")](https://www.youtube.com/watch?v=ZB63Fm40Utc)
 [![#shareyourcatpics](https://ytcards.demolab.com/?id=EmsLt7m-6fA&title=%23shareyourcatpics&lang=en&timestamp=1764972390&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#shareyourcatpics")](https://www.youtube.com/shorts/EmsLt7m-6fA)
 [![Coding in DF (mcdiamondfire)](https://ytcards.demolab.com/?id=6FKTkL-17KU&title=Coding+in+DF+%28mcdiamondfire%29&lang=en&timestamp=1763822110&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Coding in DF (mcdiamondfire)")](https://www.youtube.com/watch?v=6FKTkL-17KU)
 [![#ghaffarbhai](https://ytcards.demolab.com/?id=b5FkFsWu_nk&title=%23ghaffarbhai&lang=en&timestamp=1763588111&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "#ghaffarbhai")](https://www.youtube.com/shorts/b5FkFsWu_nk)
-[![@scottfrenzel](https://ytcards.demolab.com/?id=bV_cJ5bjrmA&title=%40scottfrenzel&lang=en&timestamp=1763498893&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "@scottfrenzel")](https://www.youtube.com/shorts/bV_cJ5bjrmA)
 <!-- END YOUTUBE-CARDS -->
 
 ___
