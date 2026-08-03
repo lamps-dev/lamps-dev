@@ -64,4 +64,5 @@ ___
 [![i_know_how_to_code_in_the_following_programming_languages](https://skillicons.dev/icons?i=html,css,js,python,cs,java,lua,react,tailwind,vite,ts,dotnet,astro,gradle,md)](https://skillicons.dev)
 ____
 ### // Stats
-[![Lamps-dev's GitHub stats](https://githubreadme-eight.vercel.app/api?username=lamps-dev&show=prs_merged&hide=contribs&show_icons=true&commits_year=2026&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Lamps-dev's GitHub stats](https://githubreadme-eight.vercel.app/api?username=lamps-dev&show=prs_merged&hide=contribs&show_icons=true&commits_year=2026&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Lamp's GitHub stats](https://github-stats-extended.vercel.app/api?username=lamps-dev&show=prs_merged&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
