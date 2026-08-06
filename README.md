@@ -39,7 +39,12 @@ Direct link if embed doesn't work: https://discord.gg/sZxmbu4ZrG
 # // YouTube Videos/Streams/Shorts (Auto Updates):
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Random memes from discord part 11 #memes](https://ytcards.demolab.com/?id=HptH5fLpf-U&title=Random+memes+from+discord+part+11+%23memes&lang=en&timestamp=1785431659&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Random memes from discord part 11 #memes")](https://www.youtube.com/shorts/HptH5fLpf-U)
+[![How to reset volume slider in GD](https://ytcards.demolab.com/?id=H8fiMNQkE5U&title=How+to+reset+volume+slider+in+GD&lang=en&timestamp=1785347059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to reset volume slider in GD")](https://www.youtube.com/watch?v=H8fiMNQkE5U)
+[![🐈‍⬛LoFi for 💤 sleeping and for 📚 studying (24/7) | v2.0.0](https://ytcards.demolab.com/?id=LIGZ_k5Ae-k&title=%F0%9F%90%88%E2%80%8D%E2%AC%9BLoFi+for+%F0%9F%92%A4+sleeping+and+for+%F0%9F%93%9A+studying+%2824%2F7%29+%7C+v2.0.0&lang=en&timestamp=1780197921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🐈‍⬛LoFi for 💤 sleeping and for 📚 studying (24/7) | v2.0.0")](https://www.youtube.com/watch?v=LIGZ_k5Ae-k)
+[![Bad Apple on Notepad and the Terminal | Showcase](https://ytcards.demolab.com/?id=ZB63Fm40Utc&title=Bad+Apple+on+Notepad+and+the+Terminal+%7C+Showcase&lang=en&timestamp=1774980022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bad Apple on Notepad and the Terminal | Showcase")](https://www.youtube.com/watch?v=ZB63Fm40Utc)
+[![Compilation of the dumbest discord messages I found](https://ytcards.demolab.com/?id=fS94rdLT7y8&title=Compilation+of+the+dumbest+discord+messages+I+found&lang=en&timestamp=1763217181&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Compilation of the dumbest discord messages I found")](https://www.youtube.com/watch?v=fS94rdLT7y8)
+[![..another test video, for whatever reason](https://ytcards.demolab.com/?id=6B9srsYQklk&title=..another+test+video%2C+for+whatever+reason&lang=en&timestamp=1756741811&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "..another test video, for whatever reason")](https://www.youtube.com/shorts/6B9srsYQklk)
 <!-- END YOUTUBE-CARDS -->
 
 ___
