@@ -39,7 +39,12 @@ Direct link if embed doesn't work: https://discord.gg/sZxmbu4ZrG
 # // YouTube Videos/Streams/Shorts (Auto Updates):
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![top 10 messages (loud warning at honorable mention!!!)](https://ytcards.demolab.com/?id=3WioBz1FBNs&title=top+10+messages+%28loud+warning+at+honorable+mention%21%21%21%29&lang=en&timestamp=1789380322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "top 10 messages (loud warning at honorable mention!!!)")](https://www.youtube.com/watch?v=3WioBz1FBNs)
+[![9 minutes and 2 seconds of sound reaction stuff](https://ytcards.demolab.com/?id=oaHIOaOpbjE&title=9+minutes+and+2+seconds+of+sound+reaction+stuff&lang=en&timestamp=1786046165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "9 minutes and 2 seconds of sound reaction stuff")](https://www.youtube.com/watch?v=oaHIOaOpbjE)
+[![Random memes from discord part 11 #memes](https://ytcards.demolab.com/?id=HptH5fLpf-U&title=Random+memes+from+discord+part+11+%23memes&lang=en&timestamp=1785431659&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Random memes from discord part 11 #memes")](https://www.youtube.com/shorts/HptH5fLpf-U)
+[![How to reset volume slider in GD](https://ytcards.demolab.com/?id=H8fiMNQkE5U&title=How+to+reset+volume+slider+in+GD&lang=en&timestamp=1785347059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to reset volume slider in GD")](https://www.youtube.com/watch?v=H8fiMNQkE5U)
+[![🐈‍⬛LoFi for 💤 sleeping and for 📚 studying (24/7) | v2.0.0](https://ytcards.demolab.com/?id=LIGZ_k5Ae-k&title=%F0%9F%90%88%E2%80%8D%E2%AC%9BLoFi+for+%F0%9F%92%A4+sleeping+and+for+%F0%9F%93%9A+studying+%2824%2F7%29+%7C+v2.0.0&lang=en&timestamp=1780197921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🐈‍⬛LoFi for 💤 sleeping and for 📚 studying (24/7) | v2.0.0")](https://www.youtube.com/watch?v=LIGZ_k5Ae-k)
+[![Bad Apple on Notepad and the Terminal | Showcase](https://ytcards.demolab.com/?id=ZB63Fm40Utc&title=Bad+Apple+on+Notepad+and+the+Terminal+%7C+Showcase&lang=en&timestamp=1774980022&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bad Apple on Notepad and the Terminal | Showcase")](https://www.youtube.com/watch?v=ZB63Fm40Utc)
 <!-- END YOUTUBE-CARDS -->
 
 ___
